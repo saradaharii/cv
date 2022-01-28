@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> Sarada's CV</title>
+    <link rel="stylesheet" href="css/styles.css" >
+
+  </head>
+
+
+  <body>
+    <table cellspacing="20">
+      <tr>
+      <td>
+
+    <img src="sarada.jpg" alt="sarada photo">
+  </td>
+  <td>
+    <h2> SARADA HARI </h2>
+    <p>
+       <i> II year computer science student in <a href="http://www.geethanjaliinstitutions.com/"> Geethanjali College of Engineering and Technology.</a></i>
+    </p>
+    <p>
+      <i>My hobbies include playing basketball and dancing as I am a trained bharatanatyam dancer.</i>
+    </p>
+  </td>
+      </tr>
+
+    </table>
+
+    <hr>
+
+    <h3>
+      <i>Education details:</i>
+    </h3>
+    <ul>
+      <li>
+        Schooling till 12th std in <a href="https://bsrkv.edu.in/">Bhavan's Sri Ramakrishna Vidyalaya.</a>
+      </li>
+      <li>
+        Engineering at <a href="http://www.geethanjaliinstitutions.com/"> Geethanjali College of Engineering and Technology.</a>
+      </li>
+    </ul>
+    <hr>
+
+<h3>
+<i>  Experience</i>
+</h3>
+    <table>
+      <tr>
+        <td>
+          YEAR
+        </td>
+          <td>
+          QUALIFICATION
+          </td>
+      </tr>
+      <tr>
+        <td>
+          2018
+        </td>
+        <td>
+          Completed 10th std.
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2020
+        </td>
+        <td>
+          Completed 12th std.
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2024
+        </td>
+        <td>
+          Will graduate.
+        </td>
+      </tr>
+    </table>
+    <hr>
+
+    </center>
+
+
+  <center>
+       <h3>
+    <i> Skills</i>
+    </h3>
+
+      <table>
+        <tr>
+          <td>
+            Basketball
+          </td>
+          <td>
+            ⭐⭐⭐⭐
+          </td>
+        </tr>
+        <tr>
+          <td>
+            C Programming
+          </td>
+          <td>
+            ⭐⭐⭐⭐⭐
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Bharatanatyam
+          </td>
+          <td>
+            ⭐⭐⭐⭐
+          </td>
+        </tr>
+      </table>
+
+
+
+    <h3>
+      <i><a href="C:\Users\harih\Desktop\WEB DEVELOPMENT COURSE\HTML- PERSONAL SITE\contact.html">CONTACT ME</a></i>
+    </h3>
+
+  </body>
+</html>
